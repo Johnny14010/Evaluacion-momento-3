@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+    margin: 20px;
+}
+
+#juego {
+    border: 1px solid #ccc;
+    padding: 20px;
+}
+
+#imagen-ahorcado {
+    width: 200px;
+    height: 200px;
+    background-image: url("imagenes/ahorcado0.png");
+}
+
+#palabra-adivinar {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+#letras-usadas {
+    font-size: 18px;
+    margin-top: 20px;
+}
+
+#intentos-restantes {
+    margin-top: 20px;
+    font-size: 14px;
+}
+
+#intentos-numero {
+    font-weight: bold;
+}
+
+#teclado {
+    margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#teclado button {
+    margin: 5px;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
