@@ -1,4 +1,4 @@
-let Abrahamlincoln =  { name:"Abrahamlincoln"};
+let Abrahamlincoln =  { name:"Presidente"};
 let Marito = {name:"MaritoLincoln"}
 
 
