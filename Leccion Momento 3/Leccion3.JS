@@ -6,10 +6,7 @@ const preguntas = [
   {
       pregunta: "¿Cuál fue el nombre del 16º presidente de los Estados Unidos?",
       opciones: [
-          "Abraham Lincoln",
-          "Marito Lincoln",
-          "John F. Kennedy",
-          "Barack Obama",
+        
       ],
       respuestaCorrecta: 1,
   },
